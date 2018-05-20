@@ -3,7 +3,11 @@
      alt="DBTaco"
      style="float: left; margin-right: 5px; width: 200px;" />
 
-# DB-Taco  
+# DB-Taco 
+### Juan E. Rolon, 2017
+
+
+## Overview
 
 Python wrapper for the Sqlite 3 database management system. Provides methods for database intialization, table creation, row and column insertions, cell updating and index specification.
 
